@@ -1,5 +1,12 @@
 # analise-clientes-sql
+
+##  Resultados principais
+
+- 51% dos clientes estão inativos
+- 102 clientes representam risco de perda de receita
+- Identificação de clientes com alto potencial de consumo
 Projeto de análise de dados com SQL para identificar oportunidades de negócio
+
 #  Análise de Clientes com SQL
 
 ##  Objetivo
@@ -31,7 +38,7 @@ A base contém informações como:
 
 ---
 
-## 📊 Análises realizadas
+##  Análises realizadas
 
 ### 🔴 Taxa de clientes inativos
 
